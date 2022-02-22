@@ -1,0 +1,20 @@
+ 1  2010       Toyota        Camry      5      45.00  AVAILABLE
+ 2  2010       Honda         Odyssey    7      60.00  AVAILABLE
+ 3  2011       Hyundai       Elantra    4      30.00  AVAILABLE
+ 4  2011       Ford          Taurus     5      40.00  AVAILABLE
+ 5  2011       Honda         Pilot      8      70.00  AVAILABLE
+ 6  2012       Toyota        Sienna     8      75.00  AVAILABLE
+ 7  2012       Honda         S2000      2      150.00 AVAILABLE
+ 8  2012       Mazda         Mazda6     7      45.00  AVAILABLE
+ 9  1900       N/A           N/A        0      0.00   N/A
+10  1900       N/A           N/A        0      0.00   N/A
+11  1900       N/A           N/A        0      0.00   N/A 
+12  1900       N/A           N/A        0      0.00   N/A
+13  1900       N/A           N/A        0      0.00   N/A
+14  1900       N/A           N/A        0      0.00   N/A
+15  1900       N/A           N/A        0      0.00   N/A
+16  1900       N/A           N/A        0      0.00   N/A
+17  1900       N/A           N/A        0      0.00   N/A
+18  1900       N/A           N/A        0      0.00   N/A 
+19  1900       N/A           N/A        0      0.00   N/A
+20  1900       N/A           N/A        0      0.00   N/A

@@ -2,6 +2,7 @@
 //Programmer: Gabriel Gamboa                        Instructor:  Timothy Mai
 //Due Date: 11/29/18                                Date Submitted: 12/04/18
 //This project gives users the option to view vehicles in a fleet, view which vehicles in the fleet are available, view which vehicles in the fleet have been rented, and it gives users the option to rent and return a vehicle fromt the fleet.  This program takes in information from a "VehicleFleet.txt" file and updates this file depending on whether the user rents a vehicle or not.  This project also gives the user the option to add or remove a vehicle.
+//
 
 #include <iostream>
 #include "CAutomobile.hpp"
